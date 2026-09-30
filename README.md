@@ -6,3 +6,5 @@ I made it as balanced as I could. If you find something being unfair/buggy - fee
 
 P.S. I know how people treat AI assisted creations, but I do these mods for myself mostly, you are not obligated to use my software. Also I am not a superman and don't own ALL DLCs. So forgive me bugs on untested weapons.
 Uh, and akimbo has two-hand bonus for dampening recoil, as you cannot really hold them both hands, you'd need a new pair of hands.
+
+Installation: install superBLT and unzip my mod in "mods" folder, simple as it is.
