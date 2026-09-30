@@ -1,0 +1,38 @@
+{
+    "name": "PD2 VR Weapon Trace",
+    "description": "Physical VR weapon recoil with one-hand and two-hand handling, independent akimbo recoil, and aligned laser sights.",
+    "author": "IliyaCherkesov",
+    "version": "0.13.1",
+    "blt_version": 2,
+    "vr_disabled": false,
+    "hooks": [
+        {
+            "hook_id": "lib/units/cameras/fpcameraplayerbase",
+            "script_path": "vr_physical_spread.lua"
+        },
+        {
+            "hook_id": "lib/units/weapons/raycastweaponbase",
+            "script_path": "vr_physical_spread.lua"
+        },
+        {
+            "hook_id": "lib/units/weapons/newraycastweaponbase",
+            "script_path": "vr_physical_spread.lua"
+        },
+        {
+            "hook_id": "lib/units/beings/player/states/vr/hand/playerhandstateweapon",
+            "script_path": "vr_physical_spread.lua"
+        },
+        {
+            "hook_id": "lib/units/beings/player/states/vr/playerstandardvr",
+            "script_path": "vr_physical_spread.lua"
+        },
+        {
+            "hook_id": "lib/units/beings/player/states/vr/hand/playerhandstateakimbo",
+            "script_path": "vr_physical_spread.lua"
+        },
+        {
+            "hook_id": "lib/units/weapons/weaponlaser",
+            "script_path": "vr_physical_spread.lua"
+        }
+    ]
+}
