@@ -5,4 +5,4 @@ hold it with both hands - one hand setup punishes you with higher recoil than PC
 I made it as balanced as I could. If you find something being unfair/buggy - feel free to open issue. You will be provided with logger if problem is deeper than balance and we can solve it together. 
 
 P.S. I know how people treat AI assisted creations, but I do these mods for myself mostly, you are not obligated to use my software. Also I am not a superman and don't own ALL DLCs. So forgive me bugs on untested weapons.
-Uh, and akimbo has two-hand bonus for dampening recoil, as you cannot really hold them both hand, you'd need a new pair of hands.
+Uh, and akimbo has two-hand bonus for dampening recoil, as you cannot really hold them both hands, you'd need a new pair of hands.
